@@ -1,3 +1,4 @@
+// Without virtual sequence and virtual sequencer 
 // No Virtual Sequencer
 class core_A_sequencer extends uvm_sequencer #(seq_item); 
 `uvm_component_utils(core_A_sequencer) 
